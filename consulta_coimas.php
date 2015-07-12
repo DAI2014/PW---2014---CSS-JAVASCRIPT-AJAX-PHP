@@ -1,0 +1,1 @@
+<img src="images\manutencao.jpg" alt="some_text">
